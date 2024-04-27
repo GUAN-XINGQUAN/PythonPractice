@@ -130,7 +130,6 @@ Order of Execution:
 - [183. Customers Who Never Order](/SQL%20Practice/183.%20Customers%20Who%20Never%20Order.sql)
 - [196. Delete Duplicate Emails](/SQL%20Practice/196.%20Delete%20Duplicate%20Emails.sql)
 - [197. Rising Temperature](/SQL%20Practice/197.%20Rising%20Temperature.sql)
-- [392. Is Subsequence](/Dynamic%20Programming/392.%20Is%20Subsequence.cpp)
 - [511. Game Play Analysis I](/SQL%20Practice/511.%20Game%20Play%20Analysis%20I.sql)
 - [584. Find Customer Referee](/SQL%20Practice/584.%20Find%20Customer%20Referee.sql)
 - [586. Customer Placing the Largest Number of Orders](/SQL%20Practice/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
@@ -174,7 +173,7 @@ Order of Execution:
 - [1272. Remove Interval](/Sweep%20Line/1272.%20Remove%20Interval.cpp)
 - [1288. Remove Covered Intervals](/Sweep%20Line/1288.%20Remove%20Covered%20Intervals.cpp)
 
-# <a name='Breadth First Search'>Breadth First Search</a>
+# <a name='breadth_first_searchh'>Breadth First Search</a>
 
 - [102. Binary Tree Level Order Traversal](/Breadth%20First%20Search/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)
 - [103. Binary Tree Zigzag Level Order Traversal](/Breadth%20First%20Search/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)
@@ -195,6 +194,9 @@ Order of Execution:
 - [78. Subsets](/Depth%20First%20Search/78.%20Subsets.cpp)
 - [90. Subsets II](/Depth%20First%20Search/90.%20Subsets%20II.cpp)
 - [94. Binary Tree Inorder Traversal](/Depth%20First%20Search/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)
+
+# <a name='dynamic_programming'><Dynamic Programming></a>
+- [392. Is Subsequence](/Dynamic%20Programming/392.%20Is%20Subsequence.cpp)
 
 # <a name='two_pointers'>Two Pointers</a>
 
@@ -222,6 +224,7 @@ Order of Execution:
 - [235. Lowest Common Ancestor of a Binary Search Tree](/Python%20Solutions/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)
 - [236. Lowest Common Ancestor of a Binary Tree](/Python%20Solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)
 - [257. Binary Tree Paths](/Python%20Solutions/257.%20Binary%20Tree%20Paths.py)
+- [269. Alien Dictionary](./Python%20Solutions/269.%20Alien%20Dictionary.py)
 - [270. Closest Binary Search Tree Value](/Python%20Solutions/270.%20Closest%20Binary%20Search%20Tree%20Value.py)
 - [297. Serialize and Deserialize Binary Tree](/Python%20Solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py)
 - [450. Delete Node in a BST](/Python%20Solutions/450.%20Delete%20Node%20in%20a%20BST.py)
